@@ -1,0 +1,17 @@
+# Blueprint do Render: New > Blueprint > escolha este repositório.
+services:
+  - type: web
+    name: estancia-verdejante
+    runtime: node
+    plan: free
+    region: virginia
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # "true" volta os dados de demonstração ao estado original a cada início do servidor
+      - key: RESET_DB
+        value: "true"

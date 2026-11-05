@@ -1,0 +1,1463 @@
+{
+  "chales": [
+    {
+      "id": 1,
+      "slug": "nevoa-da-montanha",
+      "nome": "Chalé Névoa da Montanha",
+      "cidade": "Sapucaí-Mirim",
+      "estado": "MG",
+      "resumo": "Hidromassagem de frente para o vale, lareira para as noites frias e café da manhã incluso.",
+      "descricao": [
+        "O Névoa da Montanha foi pensado para casais que querem fugir da rotina por alguns dias. A sala tem uma hidromassagem encostada na janela panorâmica, então o banho vem com vista para a mata e para as montanhas.",
+        "O chalé é todo de vocês; a mata e o pomar ao redor são compartilhados com os outros hóspedes da estância. A cozinha é equipada para preparar as próprias refeições, e o café da manhã já vem incluso na diária."
+      ],
+      "capacidade": 2,
+      "quartos": 1,
+      "cama": "Cama queen",
+      "banheiros": 1,
+      "nota": 5,
+      "totalAvaliacoes": 52,
+      "favorito": true,
+      "notas": [
+        {
+          "criterio": "Limpeza",
+          "nota": 5
+        },
+        {
+          "criterio": "Exatidão do anúncio",
+          "nota": 4.96
+        },
+        {
+          "criterio": "Check-in",
+          "nota": 5
+        },
+        {
+          "criterio": "Comunicação",
+          "nota": 4.98
+        },
+        {
+          "criterio": "Localização",
+          "nota": 4.88
+        },
+        {
+          "criterio": "Custo-benefício",
+          "nota": 4.94
+        }
+      ],
+      "anfitriao": {
+        "nome": "Nathan Lopes",
+        "superhost": true,
+        "avaliacoes": 123,
+        "nota": 4.98,
+        "anos": 4,
+        "idiomas": "Português e inglês"
+      },
+      "destaques": [
+        {
+          "icone": "waves",
+          "titulo": "Hidromassagem com vista",
+          "texto": "Um dos poucos chalés da região com hidromassagem, encostada na janela para o vale."
+        },
+        {
+          "icone": "flame",
+          "titulo": "Lareira dentro e fogueira fora",
+          "texto": "Lareira na sala para as noites frias e fogueira ao ar livre para olhar as estrelas."
+        },
+        {
+          "icone": "coffee",
+          "titulo": "Café da manhã incluso",
+          "texto": "Já está no valor da diária. Vocês só precisam acordar sem pressa."
+        }
+      ],
+      "comodidades": [
+        {
+          "grupo": "Para relaxar",
+          "itens": [
+            {
+              "nome": "Banheira de hidromassagem",
+              "icone": "waves"
+            },
+            {
+              "nome": "Vista para as montanhas",
+              "icone": "mountain"
+            },
+            {
+              "nome": "Lareira interna",
+              "icone": "flame"
+            },
+            {
+              "nome": "Fogueira externa",
+              "icone": "flame"
+            },
+            {
+              "nome": "Acesso ao lago",
+              "detalhe": "Por um caminho ou pela doca",
+              "icone": "droplets"
+            }
+          ]
+        },
+        {
+          "grupo": "Quarto e banheiro",
+          "itens": [
+            {
+              "nome": "Cama queen com roupas de cama",
+              "icone": "bed"
+            },
+            {
+              "nome": "Local para guardar roupas",
+              "icone": "hanger"
+            },
+            {
+              "nome": "Banheira",
+              "icone": "bath"
+            },
+            {
+              "nome": "Água quente",
+              "icone": "droplets"
+            },
+            {
+              "nome": "Secador de cabelo",
+              "icone": "wind"
+            },
+            {
+              "nome": "Xampu, condicionador e sabonete",
+              "icone": "sparkles"
+            }
+          ]
+        },
+        {
+          "grupo": "Cozinha",
+          "itens": [
+            {
+              "nome": "Fogão e micro-ondas",
+              "icone": "utensils"
+            },
+            {
+              "nome": "Frigobar",
+              "icone": "fridge"
+            },
+            {
+              "nome": "Panelas, pratos e talheres",
+              "icone": "utensils"
+            },
+            {
+              "nome": "Itens básicos: óleo, sal, açúcar",
+              "icone": "utensils"
+            },
+            {
+              "nome": "Taças de vinho",
+              "icone": "wine"
+            }
+          ]
+        },
+        {
+          "grupo": "Conforto e serviços",
+          "itens": [
+            {
+              "nome": "Café da manhã incluso",
+              "icone": "coffee"
+            },
+            {
+              "nome": "Wi-Fi",
+              "icone": "wifi"
+            },
+            {
+              "nome": "TV",
+              "icone": "tv"
+            },
+            {
+              "nome": "Ar-condicionado split",
+              "icone": "snow"
+            },
+            {
+              "nome": "Self check-in",
+              "icone": "key"
+            },
+            {
+              "nome": "Equipe disponível 24 horas",
+              "icone": "user"
+            },
+            {
+              "nome": "Estacionamento gratuito",
+              "icone": "car"
+            }
+          ]
+        }
+      ],
+      "naoIncluso": [
+        "Máquina de lavar e secadora",
+        "Aquecedor",
+        "Detector de fumaça e de monóxido de carbono",
+        "Câmeras de segurança externas"
+      ],
+      "regras": {
+        "checkin": "14:00",
+        "checkout": "12:00",
+        "itens": [
+          "Até 2 hóspedes para pernoite",
+          "Não é permitido levar animais de estimação",
+          "Todas as tomadas são 220V",
+          "Há um lago próximo ao chalé"
+        ]
+      },
+      "cancelamento": {
+        "diasGratis": 7,
+        "percentualDepois": 50
+      },
+      "tarifas": {
+        "semana": 650,
+        "fimDeSemana": 790,
+        "limpeza": 90,
+        "minNoites": 2,
+        "especiais": [
+          {
+            "data": "2026-12-24",
+            "valor": 990,
+            "nome": "Natal"
+          },
+          {
+            "data": "2026-12-30",
+            "valor": 1090,
+            "nome": "Réveillon"
+          },
+          {
+            "data": "2026-12-31",
+            "valor": 1090,
+            "nome": "Réveillon"
+          },
+          {
+            "data": "2027-02-06",
+            "valor": 890,
+            "nome": "Carnaval"
+          },
+          {
+            "data": "2027-02-07",
+            "valor": 890,
+            "nome": "Carnaval"
+          },
+          {
+            "data": "2027-02-08",
+            "valor": 890,
+            "nome": "Carnaval"
+          },
+          {
+            "data": "2027-02-09",
+            "valor": 890,
+            "nome": "Carnaval"
+          }
+        ]
+      },
+      "pagamento": {
+        "descontoPix": 5,
+        "parcelasSemJuros": 6
+      },
+      "localizacao": {
+        "lat": -22.7426,
+        "lng": -45.7383,
+        "texto": "A 1 km do centro de Sapucaí-Mirim",
+        "proximos": [
+          {
+            "nome": "São Bento do Sapucaí",
+            "uf": "SP"
+          },
+          {
+            "nome": "Campos do Jordão",
+            "uf": "SP"
+          },
+          {
+            "nome": "Gonçalves",
+            "uf": "MG"
+          }
+        ]
+      },
+      "capa": "varanda-vista",
+      "mosaico": [
+        "hidromassagem-varanda",
+        "quarto-cama-queen",
+        "sala-lareira",
+        "varanda-entardecer",
+        "cama-decorada"
+      ],
+      "pacotesIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fotos": [
+        {
+          "arquivo": "sala-hidromassagem-vista",
+          "categoria": "Sala",
+          "alt": "Hidromassagem ao lado da janela panorâmica com vista para as montanhas",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "sala-lareira",
+          "categoria": "Sala",
+          "alt": "Lareira em parede de tijolos com TV acima",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "sala-hidromassagem",
+          "categoria": "Sala",
+          "alt": "Hidromassagem com manta e vista para a mata",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "cozinha",
+          "categoria": "Cozinha",
+          "alt": "Cozinha com micro-ondas, frigobar, fogão e prateleiras de madeira",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-cama-queen",
+          "categoria": "Quarto",
+          "alt": "Quarto com cama queen, teto de madeira e porta para a varanda",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-varanda",
+          "categoria": "Quarto",
+          "alt": "Quarto aberto para a varanda com mesa e vista para a montanha",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-roupoes",
+          "categoria": "Quarto",
+          "alt": "Cama queen arrumada com roupões e mantas",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "decoracao-romantica-1",
+          "categoria": "Decoração romântica",
+          "alt": "Quarto com decoração romântica, corações e luz vermelha",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "decoracao-romantica-2",
+          "categoria": "Decoração romântica",
+          "alt": "Cama com pétalas e balão de coração ao lado da lareira",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "decoracao-romantica-3",
+          "categoria": "Decoração romântica",
+          "alt": "Decoração romântica com cesta e toalhas em formato de cisne",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-vinho",
+          "categoria": "Decoração romântica",
+          "alt": "Hidromassagem decorada com vinho, taças e velas",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "buque-chocolates",
+          "categoria": "Decoração romântica",
+          "alt": "Buquê de rosas e chocolates sobre a cama",
+          "w": 1078,
+          "h": 1436,
+          "w640": 640
+        },
+        {
+          "arquivo": "banheiro",
+          "categoria": "Banheiro",
+          "alt": "Banheiro com box de vidro, cuba e espelho redondo",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "banheiro-bancada",
+          "categoria": "Banheiro",
+          "alt": "Bancada de madeira em parede de tijolos",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "varanda-vista",
+          "categoria": "Área externa",
+          "alt": "Varanda de madeira com mesa posta e vista para as montanhas",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "fogueira-externa",
+          "categoria": "Área externa",
+          "alt": "Fogueira externa com banco de madeira em frente ao chalé",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "varanda-mesa",
+          "categoria": "Área externa",
+          "alt": "Mesa na varanda ao lado da janela da hidromassagem",
+          "w": 1079,
+          "h": 1436,
+          "w640": 640
+        },
+        {
+          "arquivo": "varanda-entardecer",
+          "categoria": "Área externa",
+          "alt": "Varanda ao entardecer com mesa decorada e montanhas ao fundo",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "por-do-sol",
+          "categoria": "Área externa",
+          "alt": "Pôr do sol sobre as montanhas da Serra da Mantiqueira",
+          "w": 1079,
+          "h": 1364,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-varanda",
+          "categoria": "Área externa",
+          "alt": "Hidromassagem de frente para a varanda e o vale verde",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "buque-rosas",
+          "categoria": "Pacotes",
+          "alt": "Buquê de rosas vermelhas com a paisagem ao fundo",
+          "w": 720,
+          "h": 1280,
+          "w640": 640
+        },
+        {
+          "arquivo": "kit-romantico",
+          "categoria": "Pacotes",
+          "alt": "Cesta romântica com sabonetes em caixa de coração",
+          "w": 982,
+          "h": 982,
+          "w640": 640
+        },
+        {
+          "arquivo": "tabua-frios",
+          "categoria": "Pacotes",
+          "alt": "Tábua de frios com queijos, salames, uvas e tomates",
+          "w": 1200,
+          "h": 1200,
+          "w640": 640
+        },
+        {
+          "arquivo": "jardim-buque",
+          "categoria": "Pacotes",
+          "alt": "Buquê de flores com o jardim e a mata ao fundo",
+          "w": 1079,
+          "h": 1436,
+          "w640": 640
+        },
+        {
+          "arquivo": "tabua-gourmet",
+          "categoria": "Pacotes",
+          "alt": "Tábua gourmet com queijos, frios, azeitonas e uvas",
+          "w": 1011,
+          "h": 1337,
+          "w640": 640
+        },
+        {
+          "arquivo": "tabua-frutas",
+          "categoria": "Pacotes",
+          "alt": "Tábua de frios com uvas, queijos e rosa de salame",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "cama-decorada",
+          "categoria": "Decoração romântica",
+          "alt": "Cama decorada com pétalas de rosa, cisnes de toalha e balões",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-decorada",
+          "categoria": "Decoração romântica",
+          "alt": "Hidromassagem decorada com pétalas e balões de coração",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "recanto-da-mata",
+      "nome": "Chalé Recanto da Mata",
+      "cidade": "Sapucaí-Mirim",
+      "estado": "MG",
+      "resumo": "Hidromassagem de frente para a mata, lareira, cama massageadora e café da manhã entregue numa cesta.",
+      "descricao": [
+        "O Recanto da Mata foi pensado para momentos a dois: um ambiente íntimo e silencioso, com hidromassagem de frente para a mata, lareira a lenha e cama massageadora.",
+        "O chalé não tem cozinha, mas o café da manhã chega todas as manhãs numa cesta, e há frigobar, taças e mesa para as refeições. O chalé é todo de vocês; a mata e o pomar são compartilhados com os outros hóspedes da estância."
+      ],
+      "capacidade": 2,
+      "quartos": 1,
+      "cama": "Cama queen massageadora",
+      "banheiros": 1,
+      "nota": 4.98,
+      "totalAvaliacoes": 42,
+      "favorito": true,
+      "notas": [
+        {
+          "criterio": "Limpeza",
+          "nota": 5
+        },
+        {
+          "criterio": "Exatidão do anúncio",
+          "nota": 5
+        },
+        {
+          "criterio": "Check-in",
+          "nota": 4.9
+        },
+        {
+          "criterio": "Comunicação",
+          "nota": 5
+        },
+        {
+          "criterio": "Localização",
+          "nota": 5
+        },
+        {
+          "criterio": "Custo-benefício",
+          "nota": 4.9
+        }
+      ],
+      "anfitriao": {
+        "nome": "Nathan Lopes",
+        "superhost": true,
+        "avaliacoes": 123,
+        "nota": 4.98,
+        "anos": 4,
+        "idiomas": "Português e inglês"
+      },
+      "destaques": [
+        {
+          "icone": "mountain",
+          "titulo": "Nas colinas verdes de Sapucaí-Mirim",
+          "texto": "Cercado pela mata, a cerca de 10 minutos a pé da praça da cidade."
+        },
+        {
+          "icone": "waves",
+          "titulo": "Hidromassagem, lareira e fogueira",
+          "texto": "Hidromassagem com vista para a montanha, lareira dentro e fogueira lá fora."
+        },
+        {
+          "icone": "coffee",
+          "titulo": "Café da manhã na cesta",
+          "texto": "Incluso na diária e entregue todas as manhãs, para tomar na varanda."
+        }
+      ],
+      "comodidades": [
+        {
+          "grupo": "Para relaxar",
+          "itens": [
+            {
+              "nome": "Banheira de hidromassagem",
+              "icone": "waves"
+            },
+            {
+              "nome": "Lareira interna",
+              "icone": "flame"
+            },
+            {
+              "nome": "Fogueira externa",
+              "icone": "flame"
+            },
+            {
+              "nome": "Área de jantar externa",
+              "icone": "utensils"
+            },
+            {
+              "nome": "Acesso ao lago",
+              "detalhe": "Por um caminho ou pela doca",
+              "icone": "droplets"
+            }
+          ]
+        },
+        {
+          "grupo": "Quarto e banheiro",
+          "itens": [
+            {
+              "nome": "Cama queen massageadora",
+              "icone": "bed"
+            },
+            {
+              "nome": "Cobertores e travesseiros extras",
+              "icone": "bed"
+            },
+            {
+              "nome": "Cabides e local para guardar roupas",
+              "icone": "hanger"
+            },
+            {
+              "nome": "Banheira",
+              "icone": "bath"
+            },
+            {
+              "nome": "Água quente",
+              "icone": "droplets"
+            },
+            {
+              "nome": "Secador de cabelo",
+              "icone": "wind"
+            },
+            {
+              "nome": "Xampu, condicionador e sabonete",
+              "icone": "sparkles"
+            }
+          ]
+        },
+        {
+          "grupo": "Refeições",
+          "itens": [
+            {
+              "nome": "Café da manhã incluso, entregue numa cesta",
+              "icone": "coffee"
+            },
+            {
+              "nome": "Frigobar",
+              "icone": "fridge"
+            },
+            {
+              "nome": "Pratos, copos e talheres",
+              "icone": "utensils"
+            },
+            {
+              "nome": "Taças de vinho",
+              "icone": "wine"
+            },
+            {
+              "nome": "Mesa de jantar",
+              "icone": "utensils"
+            }
+          ]
+        },
+        {
+          "grupo": "Conforto e serviços",
+          "itens": [
+            {
+              "nome": "Wi-Fi",
+              "icone": "wifi"
+            },
+            {
+              "nome": "TV",
+              "icone": "tv"
+            },
+            {
+              "nome": "Ar-condicionado e aquecedor split",
+              "icone": "snow"
+            },
+            {
+              "nome": "Casa térrea, sem escadas",
+              "icone": "home"
+            },
+            {
+              "nome": "Self check-in",
+              "icone": "key"
+            },
+            {
+              "nome": "Equipe disponível 24 horas",
+              "icone": "user"
+            },
+            {
+              "nome": "Pode deixar as malas antes ou depois",
+              "icone": "clock"
+            },
+            {
+              "nome": "Extintor de incêndio",
+              "icone": "shield"
+            },
+            {
+              "nome": "Estacionamento gratuito",
+              "icone": "car"
+            }
+          ]
+        }
+      ],
+      "naoIncluso": [
+        "Cozinha",
+        "Máquina de lavar e secadora",
+        "Detector de fumaça e de monóxido de carbono",
+        "Câmeras de segurança externas"
+      ],
+      "regras": {
+        "checkin": "14:00",
+        "checkout": "12:00",
+        "itens": [
+          "Até 2 hóspedes para pernoite",
+          "Não é permitido levar animais de estimação",
+          "Proibido fumar, inclusive vapes",
+          "Não são permitidas festas ou eventos",
+          "Todas as tomadas são 220V",
+          "Há um lago próximo ao chalé"
+        ]
+      },
+      "cancelamento": {
+        "diasGratis": 7,
+        "percentualDepois": 50
+      },
+      "tarifas": {
+        "semana": 590,
+        "fimDeSemana": 720,
+        "limpeza": 90,
+        "minNoites": 2,
+        "especiais": [
+          {
+            "data": "2026-12-24",
+            "valor": 920,
+            "nome": "Natal"
+          },
+          {
+            "data": "2026-12-30",
+            "valor": 990,
+            "nome": "Réveillon"
+          },
+          {
+            "data": "2026-12-31",
+            "valor": 990,
+            "nome": "Réveillon"
+          },
+          {
+            "data": "2027-02-06",
+            "valor": 820,
+            "nome": "Carnaval"
+          },
+          {
+            "data": "2027-02-07",
+            "valor": 820,
+            "nome": "Carnaval"
+          },
+          {
+            "data": "2027-02-08",
+            "valor": 820,
+            "nome": "Carnaval"
+          },
+          {
+            "data": "2027-02-09",
+            "valor": 820,
+            "nome": "Carnaval"
+          }
+        ]
+      },
+      "pagamento": {
+        "descontoPix": 5,
+        "parcelasSemJuros": 6
+      },
+      "localizacao": {
+        "lat": -22.74273,
+        "lng": -45.73758,
+        "texto": "A cerca de 10 minutos a pé da praça de Sapucaí-Mirim",
+        "proximos": [
+          {
+            "nome": "São Bento do Sapucaí",
+            "uf": "SP"
+          },
+          {
+            "nome": "Campos do Jordão",
+            "uf": "SP"
+          },
+          {
+            "nome": "Gonçalves",
+            "uf": "MG"
+          }
+        ]
+      },
+      "capa": "varanda-mesa",
+      "mosaico": [
+        "hidromassagem-vista",
+        "quarto-varanda",
+        "lareira",
+        "varanda-mesa",
+        "decoracao-aniversario"
+      ],
+      "pacotesIds": [
+        1,
+        2,
+        3
+      ],
+      "fotos": [
+        {
+          "arquivo": "sala-lareira",
+          "categoria": "Sala",
+          "alt": "Sala com lareira a lenha, TV e cama arrumada",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-deck",
+          "categoria": "Sala",
+          "alt": "Hidromassagem em deck de madeira ao lado da janela",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-vista",
+          "categoria": "Sala",
+          "alt": "Hidromassagem com vista para a mata e as montanhas",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-janela",
+          "categoria": "Sala",
+          "alt": "Hidromassagem de frente para a janela de vidro e a mata",
+          "w": 1052,
+          "h": 1252,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-varanda",
+          "categoria": "Quarto",
+          "alt": "Quarto com cama queen aberto para a varanda",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "cama-toalhas",
+          "categoria": "Quarto",
+          "alt": "Cama arrumada com toalhas e amenities",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-porta-varanda",
+          "categoria": "Quarto",
+          "alt": "Porta de vidro do quarto para a varanda com mesa",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-interno",
+          "categoria": "Quarto",
+          "alt": "Vista interna do chalé com cama e piso de madeira",
+          "w": 1078,
+          "h": 1648,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-lareira",
+          "categoria": "Quarto",
+          "alt": "Quarto com lareira, ar-condicionado e cama decorada",
+          "w": 1079,
+          "h": 1436,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-mata",
+          "categoria": "Sala",
+          "alt": "Hidromassagem junto à janela com vista para a mata",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "lareira",
+          "categoria": "Sala",
+          "alt": "Lareira a lenha em parede de tijolos",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "cisnes-toalha",
+          "categoria": "Decoração romântica",
+          "alt": "Cisnes de toalha formando um coração, com pétalas e bilhete",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "cama-petalas",
+          "categoria": "Quarto",
+          "alt": "Cama de casal com pétalas de rosa e tapete vermelho",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "banheiro",
+          "categoria": "Banheiro",
+          "alt": "Banheiro com box de vidro e revestimento de mármore",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "banheiro-pia",
+          "categoria": "Banheiro",
+          "alt": "Pia com espelho redondo e box de vidro",
+          "w": 1079,
+          "h": 1440,
+          "w640": 640
+        },
+        {
+          "arquivo": "varanda-mesa",
+          "categoria": "Área externa",
+          "alt": "Varanda com mesa para dois e vista para o vale",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "varanda-montanhas",
+          "categoria": "Área externa",
+          "alt": "Varanda de madeira com as montanhas ao fundo",
+          "w": 899,
+          "h": 1599,
+          "w640": 640
+        },
+        {
+          "arquivo": "varanda-lateral",
+          "categoria": "Área externa",
+          "alt": "Varanda lateral com guarda-corpo de madeira",
+          "w": 1200,
+          "h": 2133,
+          "w640": 640
+        },
+        {
+          "arquivo": "fogueira",
+          "categoria": "Área externa",
+          "alt": "Área da fogueira em frente ao chalé, cercada pela mata",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "caminho-chales",
+          "categoria": "Área externa",
+          "alt": "Caminho de pedras até os chalés da estância",
+          "w": 723,
+          "h": 690,
+          "w640": 640
+        },
+        {
+          "arquivo": "por-do-sol-serra",
+          "categoria": "Área externa",
+          "alt": "Pôr do sol sobre a serra",
+          "w": 1079,
+          "h": 1364,
+          "w640": 640
+        },
+        {
+          "arquivo": "cafe-cesta",
+          "categoria": "Café da manhã",
+          "alt": "Cesta de café da manhã servida na varanda",
+          "w": 1079,
+          "h": 1436,
+          "w640": 640
+        },
+        {
+          "arquivo": "decoracao-aniversario",
+          "categoria": "Decoração romântica",
+          "alt": "Cama decorada para aniversário com balões e pétalas",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "decoracao-luz",
+          "categoria": "Decoração romântica",
+          "alt": "Quarto com luz vermelha e decoração para casal",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "cafe-mesa",
+          "categoria": "Café da manhã",
+          "alt": "Café da manhã servido na mesa da varanda",
+          "w": 1079,
+          "h": 1016,
+          "w640": 640
+        },
+        {
+          "arquivo": "tabua-frios",
+          "categoria": "Pacotes",
+          "alt": "Tábua de frios com queijos, uvas e embutidos",
+          "w": 1200,
+          "h": 1631,
+          "w640": 640
+        },
+        {
+          "arquivo": "tabua-queijos",
+          "categoria": "Pacotes",
+          "alt": "Tábua de queijos, salames, uvas e tomates",
+          "w": 1200,
+          "h": 1200,
+          "w640": 640
+        },
+        {
+          "arquivo": "buque-chocolates",
+          "categoria": "Pacotes",
+          "alt": "Buquê de rosas e chocolates sobre a cama",
+          "w": 1078,
+          "h": 1436,
+          "w640": 640
+        },
+        {
+          "arquivo": "buque-jardim",
+          "categoria": "Pacotes",
+          "alt": "Buquê de flores com o jardim e a mata ao fundo",
+          "w": 1079,
+          "h": 1436,
+          "w640": 640
+        },
+        {
+          "arquivo": "tabua-gourmet",
+          "categoria": "Pacotes",
+          "alt": "Tábua gourmet com queijos, frios, azeitonas e uvas",
+          "w": 1011,
+          "h": 1337,
+          "w640": 640
+        },
+        {
+          "arquivo": "tabua-frutas",
+          "categoria": "Pacotes",
+          "alt": "Tábua de frios com uvas, queijos e rosa de salame",
+          "w": 1200,
+          "h": 1200,
+          "w640": 640
+        },
+        {
+          "arquivo": "hidromassagem-petalas",
+          "categoria": "Decoração romântica",
+          "alt": "Hidromassagem com pétalas de rosa",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "quarto-claro",
+          "categoria": "Quarto",
+          "alt": "Quarto iluminado com cama arrumada e vista para a mata",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "entardecer-caminho",
+          "categoria": "Área externa",
+          "alt": "Entardecer no caminho entre os chalés",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "vinho-decoracao",
+          "categoria": "Decoração romântica",
+          "alt": "Vinho, bolo e decoração \"Te amo\"",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "cama-aniversario",
+          "categoria": "Decoração romântica",
+          "alt": "Cama decorada com \"Feliz aniversário\" e balões",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "mesa-te-amo",
+          "categoria": "Decoração romântica",
+          "alt": "Mesa com pétalas e letreiro \"Te amo\"",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        },
+        {
+          "arquivo": "chale-mata",
+          "categoria": "Área externa",
+          "alt": "Chalé de tijolos com a mata ao fundo",
+          "w": 1200,
+          "h": 1600,
+          "w640": 640
+        }
+      ]
+    }
+  ],
+  "pacotes": [
+    {
+      "id": 1,
+      "nome": "Decoração romântica",
+      "descricao": "Pétalas, balões e luz baixa no quarto e na hidromassagem, prontos na sua chegada.",
+      "preco": 180,
+      "foto": "cama-decorada",
+      "icone": "heart",
+      "fotoMeta": {
+        "w": 1079,
+        "h": 1440,
+        "w640": 640
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Piquenique na varanda",
+      "descricao": "Cesta com pães, frutas, queijos e suco para um fim de tarde a dois.",
+      "preco": 160,
+      "foto": "varanda-entardecer",
+      "icone": "basket",
+      "fotoMeta": {
+        "w": 1200,
+        "h": 1600,
+        "w640": 640
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Pacote gourmet",
+      "descricao": "Tábua de frios, queijos selecionados, doce de leite da região e vinho ou espumante.",
+      "preco": 240,
+      "foto": "tabua-gourmet",
+      "icone": "wine",
+      "fotoMeta": {
+        "w": 1011,
+        "h": 1337,
+        "w640": 640
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Tábua de frios",
+      "descricao": "Queijos, embutidos, castanhas e frutas para a noite.",
+      "preco": 140,
+      "foto": "tabua-frios",
+      "icone": "utensils",
+      "fotoMeta": {
+        "w": 1200,
+        "h": 1200,
+        "w640": 640
+      }
+    },
+    {
+      "id": 5,
+      "nome": "Buquê de flores",
+      "descricao": "Rosas vermelhas ou flores do campo esperando no chalé.",
+      "preco": 120,
+      "foto": "buque-rosas",
+      "icone": "flower",
+      "fotoMeta": {
+        "w": 720,
+        "h": 1280,
+        "w640": 640
+      }
+    },
+    {
+      "id": 6,
+      "nome": "Bolo artesanal",
+      "descricao": "Feito sob encomenda para aniversários e datas especiais.",
+      "preco": 95,
+      "foto": null,
+      "icone": "cake"
+    }
+  ],
+  "cupons": [
+    {
+      "id": 1,
+      "codigo": "BEMVINDO10",
+      "percentual": 10,
+      "descricao": "10% de desconto nas diárias"
+    },
+    {
+      "id": 2,
+      "codigo": "MANTIQUEIRA15",
+      "percentual": 15,
+      "descricao": "15% de desconto nas diárias"
+    }
+  ],
+  "reservas": [
+    {
+      "id": 1,
+      "codigo": "EV-1000",
+      "chaleId": 1,
+      "checkin": "2026-11-06",
+      "checkout": "2026-11-08",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "codigo": "EV-1037",
+      "chaleId": 1,
+      "checkin": "2026-11-13",
+      "checkout": "2026-11-16",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "codigo": "EV-1074",
+      "chaleId": 1,
+      "checkin": "2026-11-20",
+      "checkout": "2026-11-22",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "codigo": "EV-1111",
+      "chaleId": 1,
+      "checkin": "2026-11-27",
+      "checkout": "2026-11-29",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "codigo": "EV-1148",
+      "chaleId": 1,
+      "checkin": "2026-12-04",
+      "checkout": "2026-12-06",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "codigo": "EV-1185",
+      "chaleId": 1,
+      "checkin": "2026-12-11",
+      "checkout": "2026-12-13",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "codigo": "EV-1222",
+      "chaleId": 1,
+      "checkin": "2026-12-25",
+      "checkout": "2026-12-28",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "codigo": "EV-1259",
+      "chaleId": 1,
+      "checkin": "2026-12-30",
+      "checkout": "2027-01-02",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "codigo": "EV-1296",
+      "chaleId": 1,
+      "checkin": "2027-01-15",
+      "checkout": "2027-01-18",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "codigo": "EV-1333",
+      "chaleId": 1,
+      "checkin": "2027-02-06",
+      "checkout": "2027-02-10",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "codigo": "EV-2000",
+      "chaleId": 2,
+      "checkin": "2026-11-13",
+      "checkout": "2026-11-15",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "codigo": "EV-2041",
+      "chaleId": 2,
+      "checkin": "2026-11-21",
+      "checkout": "2026-11-23",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "codigo": "EV-2082",
+      "chaleId": 2,
+      "checkin": "2026-11-28",
+      "checkout": "2026-11-30",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "codigo": "EV-2123",
+      "chaleId": 2,
+      "checkin": "2026-12-05",
+      "checkout": "2026-12-07",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "codigo": "EV-2164",
+      "chaleId": 2,
+      "checkin": "2026-12-18",
+      "checkout": "2026-12-20",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "codigo": "EV-2205",
+      "chaleId": 2,
+      "checkin": "2026-12-24",
+      "checkout": "2026-12-27",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "codigo": "EV-2246",
+      "chaleId": 2,
+      "checkin": "2026-12-31",
+      "checkout": "2027-01-03",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "codigo": "EV-2287",
+      "chaleId": 2,
+      "checkin": "2027-01-22",
+      "checkout": "2027-01-25",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "codigo": "EV-2328",
+      "chaleId": 2,
+      "checkin": "2027-02-06",
+      "checkout": "2027-02-10",
+      "hospedes": 2,
+      "status": "confirmada",
+      "origem": "airbnb",
+      "criadaEm": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "codigo": "EV-BFL95",
+      "chaleId": 2,
+      "checkin": "2026-12-08",
+      "checkout": "2026-12-10",
+      "hospedes": 2,
+      "status": "aguardando-pagamento",
+      "origem": "site",
+      "hospede": {
+        "nome": "Ana Souza",
+        "email": "ana@email.com",
+        "celular": "(11) 91234-5678",
+        "cpf": "529.***.***-25",
+        "acompanhante": ""
+      },
+      "chegada": "14h às 16h",
+      "ocasiao": null,
+      "observacoes": "",
+      "pacotes": [],
+      "cupom": null,
+      "pagamento": {
+        "metodo": "pix",
+        "expiraEm": "2026-11-05T22:11:44.199Z"
+      },
+      "valores": {
+        "grupos": [
+          {
+            "label": "Diárias de domingo a quinta",
+            "valor": 590,
+            "qtd": 2
+          }
+        ],
+        "hospedagem": 1180,
+        "limpeza": 90,
+        "extras": 0,
+        "descCupom": 0,
+        "descPix": 63.5,
+        "total": 1206.5
+      },
+      "criadaEm": "2026-11-05T21:41:44.199Z",
+      "id": 20
+    }
+  ]
+}
